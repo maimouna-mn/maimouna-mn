@@ -8,7 +8,6 @@
 ![Location](https://img.shields.io/badge/📍-Dallas,_TX-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/🌐-EN_%7C_FR-blue?style=flat-square)
 
-<br clear="right"/>
 
 ---
 
