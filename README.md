@@ -1,5 +1,7 @@
 # Hi 👋 My name is Maimouna Ndiaye
 
+<img src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="200" style="border-radius: 50%;" />
+
 ## Full-Stack Developer
 
 Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
