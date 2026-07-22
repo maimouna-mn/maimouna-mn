@@ -9,7 +9,7 @@
 ![Languages](https://img.shields.io/badge/🌐-EN_%7C_FR-blue?style=flat-square)
 
 </td>
-<td width="180">
+<td>
 <img src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
 </td>
 </tr>
