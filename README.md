@@ -1,13 +1,19 @@
-<img align="right" src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
-
-
 # Hi, I'm Maimouna Ndiaye 👋
 ### Full-Stack Developer
-
 
 ![Location](https://img.shields.io/badge/📍-Dallas,_TX-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/🌐-EN_%7C_FR-blue?style=flat-square)
 
+<img align="right" src="profile.jpg" alt="Maimouna Ndiaye" width="220" style="border-radius: 50%;" />
+
+Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
+
+- 💼 Full-Stack Developer with experience at Velocity Money and Kwiku SAS, building with React, Angular, and Node.js/NestJS
+- 🔭 Currently building and refining full-stack projects while job searching for Frontend/Full-Stack roles
+- 🌱 Deepening my JavaScript fundamentals and interview-ready problem solving
+- 👯 Open to collaborating on React, Angular, Node.js/NestJS, and Laravel projects
+
+<br clear="right"/>
 
 ---
 
