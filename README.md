@@ -1,17 +1,28 @@
-# Hi 👋 My name is Maimouna Ndiaye
+<table>
+<tr>
+<td>
 
-<img src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="200" style="border-radius: 50%;" />
+# Hi 👋 My name is Maimouna Ndiaye
 
 ## Full-Stack Developer
 
 Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
 
 - 🌍 I'm based in Dallas, TX
-- 💼 Full-Stack Developer with experience React, Angular, and Node.js/NestJS and Flutter.
+- 💼 Full-Stack Developer with experience at Velocity Money and Kwiku SAS, building with React, Angular, and Node.js/NestJS
 - 🔭 Currently building and refining full-stack projects while job searching for Frontend/Full-Stack roles
 - 🌱 Deepening my JavaScript fundamentals and interview-ready problem solving
 - 👯 Open to collaborating on React, Angular, Node.js/NestJS, and Laravel projects
 - 🌐 Bilingual: English & French
+
+</td>
+<td width="220">
+
+<img src="profile.jpg" alt="Maimouna Ndiaye" width="200" style="border-radius: 50%;" />
+
+</td>
+</tr>
+</table>
 
 ## Skills
 
@@ -29,4 +40,4 @@ MySQL · Firebase
 
 ## Socials
 
-[LinkedIn]([[ton-lien-linkedin](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/)]
+[LinkedIn](ton-lien-linkedin) 
