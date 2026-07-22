@@ -1,8 +1,5 @@
 <table>
 <tr>
-<td width="180">
-<img src="profile.jpg" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
-</td>
 <td>
 
 # Hi, I'm Maimouna Ndiaye 👋
@@ -11,6 +8,9 @@
 ![Location](https://img.shields.io/badge/📍-Dallas,_TX-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/🌐-EN_%7C_FR-blue?style=flat-square)
 
+</td>
+<td width="180">
+<img src="profile.jpg" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
 </td>
 </tr>
 </table>
