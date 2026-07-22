@@ -1,4 +1,4 @@
-<img align="right" src="profile.jpg" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
+<img align="right" src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
 
 # Hi, I'm Maimouna Ndiaye 👋
 ### Full-Stack Developer
