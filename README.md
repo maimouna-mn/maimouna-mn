@@ -1,6 +1,4 @@
-<table >
-<tr>
-<td>
+<img align="right" src="profile.jpg" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
 
 # Hi, I'm Maimouna Ndiaye 👋
 ### Full-Stack Developer
@@ -8,13 +6,7 @@
 ![Location](https://img.shields.io/badge/📍-Dallas,_TX-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/🌐-EN_%7C_FR-blue?style=flat-square)
 
-</td>
-<td  align="right">
-<img src="profile.jpg" alt="Maimouna Ndiaye" width="160" style="border-radius: 50%;" />
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 ---
 
 Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
