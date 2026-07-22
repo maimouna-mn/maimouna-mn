@@ -5,7 +5,7 @@
 Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
 
 - 🌍 I'm based in Dallas, TX
-- 💼 Full-Stack Developer with experience at Velocity Money and Kwiku SAS
+- 💼 Full-Stack Developer with experience React, Angular, and Node.js/NestJS and Flutter.
 - 🔭 Currently building and refining full-stack projects while job searching for Frontend/Full-Stack roles
 - 🌱 Deepening my JavaScript fundamentals and interview-ready problem solving
 - 👯 Open to collaborating on React, Angular, Node.js/NestJS, and Laravel projects
@@ -27,4 +27,4 @@ MySQL · Firebase
 
 ## Socials
 
-[LinkedIn]([ton-lien-linkedin](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/)
+[LinkedIn]([[ton-lien-linkedin](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/)]
