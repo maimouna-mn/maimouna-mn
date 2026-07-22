@@ -18,7 +18,7 @@ Always motivated to learn new technologies, I've worked across web and mobile pr
 </td>
 <td width="220">
 
-<img src="profile.jpg" alt="Maimouna Ndiaye" width="200" style="border-radius: 50%;" />
+<img src="IMG_6856.JPG" alt="Maimouna Ndiaye" width="200" style="border-radius: 50%;" />
 
 </td>
 </tr>
@@ -40,4 +40,4 @@ MySQL · Firebase
 
 ## Socials
 
-[LinkedIn](ton-lien-linkedin) 
+[LinkedIn](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/) 
