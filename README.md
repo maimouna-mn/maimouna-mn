@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 My name is Maimouna Ndiaye
 
-<!--
-**maimouna-mn/maimouna-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer
 
-Here are some ideas to get you started:
+Always motivated to learn new technologies, I've worked across web and mobile projects — from freelance contracts to production applications handling real transactional data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Dallas, TX
+- 💼 Full-Stack Developer with experience at Velocity Money and Kwiku SAS
+- 🔭 Currently building and refining full-stack projects while job searching for Frontend/Full-Stack roles
+- 🌱 Deepening my JavaScript fundamentals and interview-ready problem solving
+- 👯 Open to collaborating on React, Angular, Node.js/NestJS, and Laravel projects
+- 🌐 Bilingual: English & French
+
+## Skills
+
+**Languages & Frameworks**
+JavaScript · TypeScript · React · Angular · Node.js · NestJS · Laravel · Flutter
+
+**Databases & Backend**
+MySQL · Firebase
+
+## Featured Projects
+
+- 🚀 [Space Travel App](https://github.com/maimouna-mn/space-travel-react) — React app with Context API for state management
+- 🎓 [Course Management Platform](https://github.com/maimouna-mn/Gestion-Pedagogique-Sonatel-Academy) — Full-stack app built with Angular, Laravel, and Ionic
+- 💸 [Money Transfer System](https://github.com/maimouna-mn/Projet-Transfert-Argent) — Inter-network transfer system built with NestJS and MySQL
+
+## Socials
+
+[LinkedIn]([ton-lien-linkedin](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/)
