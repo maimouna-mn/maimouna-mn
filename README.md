@@ -50,4 +50,4 @@ Always motivated to learn new technologies, I've worked across web and mobile pr
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/) 
+[🌐 Portfolio](https://portfolio-alpha-sand-kim76d5piv.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/maimouna-ndiaye-12b332249/)
